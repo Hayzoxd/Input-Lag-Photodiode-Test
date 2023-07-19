@@ -1,6 +1,6 @@
 # Input Lag Measurement System - Test Results
 
-The input lag measurement system is a setup that utilizes an Arduino Leonardo, a photodiode, and a switch to measure the delay between the user's input and its display on the screen. This readme presents the details of the measurement system, how it works, and the test results obtained from various scenarios.
+The Input Lag Measurement System is a setup that uses an Arduino Leonardo, a photodiode, and a switch to measure the delay between the user's input and its display on the screen. This repository contains test results for measuring input lag using this system.
 
 ## Measurement System Overview
 
